@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Google GKI android12-5.10 kernel
+kernel.string=Google GKI android13-5.15 kernel
 do.devicecheck=0
 do.modules=0
 do.systemless=1
