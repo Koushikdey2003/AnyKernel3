@@ -4,13 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=neOliT kernel for motorola g54 5G
+kernel.string=MOONliT kernel for Redmi 13C 5G/13R 5G/POCO M6 5G
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=cancunf
+device.name1=air
 device.name2=
 device.name3=
 device.name4=
